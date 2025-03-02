@@ -17,7 +17,6 @@ import services.UserService;
 public class Authentification extends javax.swing.JFrame {
     boolean isAuthenticated;
     UserService us;
-    ImageIcon imageIcon = new ImageIcon("\"D:\\EMSI\\NetBeans\\Gerstion des Reservations\\src\\resort.png\"");
     /**
      * Creates new form AUthentification
      */
